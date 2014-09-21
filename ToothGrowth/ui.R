@@ -42,7 +42,7 @@ shinyUI(fluidPage(
     ),
     br(),
     br(),
-    em("* Note that the left plot is alwasy your targeted plot. It means that the
+    em("* Note that the left plot is always your targeted plot. It means that the
        positions of VC and OJ plots will change once your targeted delivery method
        changes.")
     
